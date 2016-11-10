@@ -10,7 +10,7 @@
 <body>
 
 <!-- Sidenav (hidden by default) -->
-<nav class="w3-sidenav w3-card-2 w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:25%;min-width:150px;background-color:#20A4F3;" id="mySidenav">
+<nav class="w3-sidenav w3-card-2 w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px;background-color:#20A4F3;" id="mySidenav">
   <a href="javascript:void(0)" onclick="w3_close()"
   class="w3-closenav">Close Menu</a>
   <a href="index.html" onclick="w3_close()">Recipe Me</a>
@@ -30,11 +30,10 @@
 </div>
 
     </div>
-    <div class="w3-center"><a href="index.html"><img src="logo2.png" width="100" height="100"></a></div>
+    <div class="w3-center"><a href="index.html"><img src="logo.png" width="150" height="150"></a></div>
   </div>
 </div>
-  <br>
-  <hr>
+  
 <!-- !PAGE CONTENT! -->
 <div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
 
@@ -110,8 +109,7 @@
 </div>
 
   <!-- Footer -->
-  <footer class="w3-center w3-#C1CFDA w3-padding-64 w3-margin-64" style="background-color:#C1CFDA;">
-
+  <footer class="w3-center w3-#C1CFDA w3-padding-64" style="background-color:#C1CFDA;">
   <div class="w3-xlarge" style="background-color:#C1CFDA;">
     <a href="#" class="w3-hover-text-indigo"><i class="fa fa-facebook-official"></i></a>
     <a href="#" class="w3-hover-text-red"><i class="fa fa-pinterest-p"></i></a>
